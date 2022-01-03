@@ -1,0 +1,33 @@
+body{
+    
+    background-color: white;
+    /*text-align: center; */
+    margin-top: 10px;
+    margin-bottom: 30px;
+    margin-left: 150px;
+    margin-right: 50px;
+}
+
+.titulos {font-family: Helvetica;
+text-align: justify;
+    color: #09006c;
+    margin: 0 auto;
+}
+
+.inst {font-family: Helvetica;
+text-align: justify;
+    color: #8f0000;
+    margin: 0 auto;
+}
+
+.button {
+  background-color: lightblue
+  border: none;
+  color: white;
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+

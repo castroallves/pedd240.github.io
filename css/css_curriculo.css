@@ -1,0 +1,76 @@
+body{
+    font-family: Helvetica;
+    background-color: white;
+    /*text-align: center; */
+    margin-top: 10px;
+    margin-bottom: 30px;
+    margin-left: 150px;
+    margin-right: 50px;
+}
+
+#nome {font-family: Helvetica;
+text-align: justify;
+    color: #3d0000;
+    margin: 0 auto;
+}
+
+
+.titulos {font-family: Helvetica;
+text-align: justify;
+    color: #09006c;
+    margin: 0 auto;
+}
+
+.inst {font-family: Helvetica;
+text-align: justify;
+    color: #8f0000;
+    margin: 0 auto;
+}
+
+#subtitulo {font-family: Helvetica;
+text-align: justify;
+    color: #8f0000;
+    margin: 0 auto;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 30%;
+  background-color: white;
+  height: 22%; /* Full height */
+  position: fixed; /* Make it stick, even on scroll */
+  overflow: auto; /* Enable scrolling if the sidenav has too much content */
+}
+
+li a {
+  display: block;
+  color: black;
+  padding: 8px 5px;
+  text-decoration: none;
+}
+
+
+li a:hover {
+  background-color: #09006c;
+  color: white;
+}
+
+.active {
+  background-color: blue;
+  color: blue;
+}
+
+
+.button {
+  background-color: lightblue
+  border: none;
+  color: white;
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
