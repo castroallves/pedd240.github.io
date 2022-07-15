@@ -37,7 +37,7 @@ ul {
   padding: 0;
   width: 30%;
   background-color: white;
-  height: 22%; /* Full height */
+  height: 50; /* Full height */
   position: fixed; /* Make it stick, even on scroll */
   overflow: auto; /* Enable scrolling if the sidenav has too much content */
 }
