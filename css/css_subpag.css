@@ -33,9 +33,9 @@ text-align: justify;
 
 ul {
   list-style-type: none;
-  margin: 0;
+ {/* margin: 0;
   padding: 0;
-  width: 30%;
+     width: 30%;*/}
   background-color: white;
   height: 50; /* Full height */
   position: fixed; /* Make it stick, even on scroll */
